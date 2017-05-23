@@ -1,4 +1,4 @@
-flup
+flup-py3
 flask
 redis
 rst2pdf
